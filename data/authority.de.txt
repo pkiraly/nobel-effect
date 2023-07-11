@@ -1,0 +1,93 @@
+1990,Octavio Paz
+"Paz, Octavio, 1914-1998, VerfasserIn, aut" OR "Octavio, Paz, VerfasserIn, aut" OR "Octavio, Paz, 1914-1998, VerfasserIn, aut" OR "Octavio, Paz, 1914-, VerfasserIn, aut" OR "01, Latn, Paz, Octavio, 1914-1998, VerfasserIn, aut"
+
+1991,Nadine Gordimer
+"Gordimer, Nadine, 1923-2014, VerfasserIn, aut" OR "Nadine, Gordimer, VerfasserIn, aut" OR "01, Jpan, Nadine, Gordimer, 1923-2014, Johannesburg(South Africa), VerfasserIn, aut" OR "01, Latn, Nadine, Gordimer, VerfasserIn, aut" OR "Gordimer, Nadine, 1923-2014, comp, aut" OR "Nadin, Gordimer, VerfasserIn, aut"
+
+1992,Derek Walcott
+"Walcott, Derek, 1930-2017, VerfasserIn, aut" OR "Derek, Walcott, VerfasserIn, aut" OR "Walcott, Derek, 1930-2017, TextdichterIn, lyr"
+
+1993,Toni Morrison
+"Morrison, Toni, 1931-2019, VerfasserIn, aut" OR "Toni, Morrison, VerfasserIn, aut"
+
+1994,Kenzaburō Ōe
+"01, Latn, Ōe, Kenzaburō, 1935-, VerfasserIn, aut" OR "Ōe, Kenzaburō, 1935-, VerfasserIn, aut" OR "Kenzaburo, Oe, VerfasserIn, aut" OR "Kenzaburō, Ōe, VerfasserIn, aut" OR "01, Latn, Kenzaburō, Ōe, 1935-, VerfasserIn, aut" OR "01, Latn, Ooe Kenzaburou, VerfasserIn, aut" OR "02, Latn, Ōe, Kenzaburō, 1935-, VerfasserIn, aut" OR "Kenzaburo, Oé, VerfasserIn, aut" OR "Kenzaburō, Ōoe, VerfasserIn, aut" OR "Ōe, Kenzaburō, 1935-, author., aut" OR "Ōe, Kenzaburō, VerfasserIn, aut" 
+
+1995,Seamus Heaney
+"Heaney, Seamus, 1939-2013, VerfasserIn, aut" OR "Seamus, Heaney, VerfasserIn, aut" OR "Seamus, Heaney, 1939-, VerfasserIn, aut" OR "Seamus P., Heaney, VerfasserIn, aut" OR "Heaney,Seamus, VerfasserIn, aut"
+
+1996,Wisława Szymborska
+"Szymborska, Wisława, 1923-2012, VerfasserIn, aut" OR "Wisława, Szymborska, VerfasserIn, aut" OR "Wislawa, Szymborska, VerfasserIn, aut" OR "Wisława, Szymborska, 1923-, VerfasserIn, aut"
+
+1997,Dario Fo
+"Fo, Dario, 1926-2016, VerfasserIn, aut" OR "Dario, Fo, VerfasserIn, aut" OR "Fo, Dario, 1926-2016, VerfasserIn, aut, SchauspielerIn, act"
+
+1998,José Saramago
+"Saramago, José, 1922-2010, VerfasserIn, aut" OR "José, Saramago, VerfasserIn, aut" OR "José, Saramago, 1922-, VerfasserIn, aut" OR "01, Latn, Saramago, José, 1922-2010, VerfasserIn, aut" OR "Josè, Saramago, VerfasserIn, aut" OR "José, Saramago*, VerfasserIn, aut" OR "José, Saramago, InterviewteR, ive"
+
+1999,Günter Grass
+"Grass, Günter, 1927-2015, VerfasserIn, aut" OR "Günter, Grass, VerfasserIn, aut" OR "Grass, Günter, 1927-2015, VerfasserIn, aut, ErzählerIn, nrt" OR "Günter, Grass, 1927-, VerfasserIn, aut" OR "Grass, Günter, 1927-2015, VerfasserIn, aut, RednerIn, spk, IllustratorIn, ill" OR "Günter, Grass, 1927-2015, VerfasserIn, aut"
+
+2000,Gao Xingjian
+"Gao, Xingjian, 1940-, VerfasserIn, aut" OR "01, Latn, Gao, Xingjian, 1940-, VerfasserIn, aut" OR "Xingjian, Gao, VerfasserIn, aut" OR "Gao, Xingjian, VerfasserIn, aut" OR "01, Latn, Xingjian, Gao, VerfasserIn, aut" OR "Gao Xingjian, VerfasserIn, aut" OR "Xingjian, Gao, VerfasserIn, aut, KünstlerIn, art"
+
+2001,Vidiadhar Surajprasad Naipaul
+"Naipaul, V. S., 1932-2018, VerfasserIn, aut" OR "Vidiadhar Surajprasad, Naipaul, VerfasserIn, aut" OR "V. S., Naipaul, VerfasserIn, aut" OR "V.S., Naipaul, VerfasserIn, aut" OR "Vidiadhar Surajprasad, Naipaul, 1932-, VerfasserIn, aut" OR "Vidiadhar S., Naipaul, VerfasserIn, aut" OR "Vidiadhar Surajprasad, Naipaul, 1932-, AACR: Naipaul, V. S., VerfasserIn, aut" OR "01, Latn, Naipaul, V. S., 1932-2018, VerfasserIn, aut" OR "01, Latn, V.S, Naipaul, VerfasserIn, aut" OR "V. S., Naipaul V.S., VerfasserIn, aut" OR "V. S., Naipaul, 1932-, VerfasserIn, aut" OR "Vidiadhar Surajprasad, Naipaul, 1932-, AACR: Naipaul, V.S., VerfasserIn, aut"
+
+2002,Imre Kertész
+"Imre, Kertesz, VerfasserIn, aut" OR "Kertész, Imre, 1929-2016, VerfasserIn, aut" OR "Imre, Kertész, VerfasserIn, aut" OR "Imre, Kertész, 1929-, VerfasserIn, aut" OR "Kertész, Imre, 1926-, VerfasserIn, aut"
+
+2003,John Maxwell Coetzee
+"Coetzee, J. M., 1940-, VerfasserIn, aut" OR "Coetzee, Johan, VerfasserIn, aut" OR "J. M., Coetzee, VerfasserIn, aut" OR "J. M., Coetzee, 1940-, VerfasserIn, aut" OR "J.M., Coetzee, VerfasserIn, aut" OR "01, Latn, Coetzee, J. M., 1940-, VerfasserIn, aut" OR "John M., Coetzee, VerfasserIn, aut"
+
+2004,Elfriede Jelinek
+"Jelinek, Elfriede, 1946-, VerfasserIn, aut" OR "Elfriede, Jelinek, VerfasserIn, aut" OR "Elfriede, Jelinek, 1946-, VerfasserIn, aut"
+
+2005,Harold Pinter
+"Pinter, Harold, 1930-2008, VerfasserIn, aut" OR "Harold, Pinter, VerfasserIn, aut" OR "Harold, Pinter, 1930-2008, VerfasserIn, aut" OR "Harold, Pinter, 1930-, VerfasserIn, aut" OR "01, Latn, Pinter, Harold, 1930-2008, VerfasserIn, aut"
+
+2006,Orhan Pamuk
+"Pamuk, Orhan, 1952-, VerfasserIn, aut" OR "Orhan, Pamuk, VerfasserIn, aut" OR "01, Latn, Pamuk, Orhan, 1952-, VerfasserIn, aut" OR "Orhan, Pamuk, 1952-, VerfasserIn, aut" OR "Orhan Pamuk, VerfasserIn, aut" OR "Pamuk, Orhan, 1952-, FotografIn, pht, VerfasserIn einer Einleitung, win"
+
+2007,Doris Lessing
+"Lessing, Doris, 1919-2013, VerfasserIn, aut" OR "Doris, Lessing, VerfasserIn, aut" OR "Doris May, Lessing, VerfasserIn, aut" OR "Doris May, Lessing, 1919-, VerfasserIn, aut"
+
+2008,Jean-Marie Gustave Le Clézio
+"Le Clézio, J. M. G., 1940-, VerfasserIn, aut" OR "Jean Marie Gustave, LeClézio, VerfasserIn, aut" OR "Jean Marie Gustave, Le Clézio, VerfasserIn, aut" OR "Jean-Marie Gustave, LeClézio, VerfasserIn, aut" OR "Jean-Marie Gustave, Le Clézio, VerfasserIn, aut" OR "Jean-Marie G., Le Clézio, VerfasserIn, aut" OR "J. M. G., LeClézio, VerfasserIn, aut" OR "Jean-Marie G., LeClézio, VerfasserIn, aut" OR "J. M. G., Le Clézio, VerfasserIn, aut" OR "01, Latn, Le Clézio, J. M. G., 1940-, VerfasserIn, aut" OR "J. M. G, Clézio, VerfasserIn, aut" OR "J.M.G Le, Clézio, VerfasserIn, aut" OR "J.M.G, Le Clézio, VerfasserIn, aut" OR "J.M.G., Le Clézio, VerfasserIn, aut" OR "Jean M. G., LeClézio, VerfasserIn, aut" OR "Jean-Marie Gustave (1940-), Le Clézio, VerfasserIn, aut" OR "Jean-Marie Gustave, Le Clézio, 1940-, VerfasserIn, aut" OR "Jean-Pierre, Le Clézio, VerfasserIn, aut" OR "Le Clézio, VerfasserIn, aut"
+
+2010,Mario Vargas Llosa
+"Vargas Llosa, Mario, 1936-, VerfasserIn, aut" OR "Mario, Vargas Llosa, VerfasserIn, aut" OR "Mario, Vargas Llosa, 1936-, VerfasserIn, aut" OR "Vargas Llosa, Mario, 1936-, VerfasserIn, aut, HerausgeberIn, edt" OR "01, Latn, Vargas Llosa, Mario, 1936-, VerfasserIn, aut" OR "M. V., Llosa, VerfasserIn, aut" OR "Vargas Llosa, Mario, 1936-, InterviewteR, ive" OR "Mario Vargas, Llosa, VerfasserIn, aut" OR "Llosa Mario, Vargas, VerfasserIn, aut" OR "Mario, 1936-, Vargas Llosa, VerfasserIn, aut" OR "Mario, VargasLlosa, VerfasserIn, aut" OR "Mario, Vergas Llosa, VerfasserIn, aut" OR "Vargas Llosa, Mario, 1936-, InterviewteR, ive, GefeierteR, hnr"
+
+2011,Tomas Tranströmer
+"Tranströmer, Tomas, 1931-2015, VerfasserIn, aut" OR "Tomas, Tranströmer, VerfasserIn, aut" OR "Tomas, Tranströmer, 1931-, VerfasserIn, aut"
+
+2012,Mo Yan
+"01, Latn, Mo, Yan, 1956-, VerfasserIn, aut" OR "Mo, Yan, 1956-, VerfasserIn, aut" OR "01, Latn, mo yan, VerfasserIn, aut" OR "01, Latn, yang mo, VerfasserIn, aut" OR "01, Latn, Yang, Mo, 1914-1996, VerfasserIn, aut" OR "Mo, Yan, VerfasserIn, aut"
+
+2013,Alice Munro
+"Munro, Alice, 1931-, VerfasserIn, aut" OR "Alice, Munro, VerfasserIn, aut" OR "01, Latn, Munro, Alice, 1931-, VerfasserIn, aut" OR "Alice Ann, Munro, 1931-, VerfasserIn, aut"
+
+2014,Patrick Modiano
+"Modiano, Patrick, 1945-, VerfasserIn, aut" OR "Patrick, Modiano, VerfasserIn, aut" OR "Patrick, Modiano, 1945-, VerfasserIn, aut" OR "Patrick, Modiano, 1945-, author., aut" OR "Modiano, Patrick, VerfasserIn, aut"
+
+2015,Svetlana Alexievich
+"Svetlana, Alexievich, VerfasserIn, aut" OR "Swetlana, Alexijewitsch, VerfasserIn, aut" OR "Aleksievič, Svjatlana Aljaksandraŭna, 1948-, VerfasserIn, aut" OR "01, Latn, Aleksievič, Svjatlana Aljaksandraŭna, 1948-, VerfasserIn, aut" OR "01, Latn, Svetlana, Aleksievič, VerfasserIn, aut" OR "Aleksievič, Svjatlana Aljaksandraŭna, 1948-, Hrsg., aut" OR "02, Latn, Aleksievič, Svjatlana Aljaksandraŭna, 1948-, VerfasserIn, aut" OR "Aleksievič, Svjatlana Aljaksandraŭna, 1948-, InterviewteR, ive" OR "Svetlana A., Aleksievič, VerfasserIn, aut" OR "Svjatlana Aljaksandraŭna, Aleksievič, 1948-, VerfasserIn, aut" OR "Svjatlana Aljaksandraŭna, Aleksievič, VerfasserIn, aut" OR "S., Aleksievic, VerfasserIn, aut" OR "Svetlana, Aleksievich, 1948-, VerfasserIn, aut"
+
+2016,Bob Dylan
+"Dylan, Bob, 1941-, VerfasserIn, aut" OR "Bob, Dylan, VerfasserIn, aut" OR "Dylan, Bob, 1941-, Interpr., aut" OR "Dylan, Bob, 1941-, KomponistIn, cmp, AusführendeR, prf" OR "Dylan, Bob, 1941-, KomponistIn, cmp" OR "Dylan, Bob, 1941-, KomponistIn, cmp, InstrumentalmusikerIn, itr" OR "Dylan, Bob, 1941-, KomponistIn, cmp, SängerIn, sng, InstrumentalmusikerIn, itr" OR "Dylan, Bob, 1941-, KomponistIn, cmp, TextdichterIn, lyr, InstrumentalmusikerIn, itr, SängerIn, sng" OR "Bob, Dylan, 1941-, AusführendeR, prf" OR "Bob, Dylan, 1941-, VerfasserIn, aut" OR "Dylan, Bob, 1941-, KomponistIn, cmp, SängerIn, sng" OR "Dylan, Bob, 1941-, KomponistIn, cmp, TextdichterIn, lyr" OR "Dylan, Bob, 1941-, KomponistIn, cmp, TextdichterIn, lyr, AusführendeR, prf" OR "Bob, Dylan, 1941-, SängerIn, sng" OR "Bob, Dylan, 1941-, KomponistIn, cmp, InstrumentalmusikerIn, itr, InstrumentalmusikerIn, itr" OR "Bob, Dylan, 1941-, SängerIn, sng, InstrumentalmusikerIn, itr" OR "Bob, Dylan, VerfasserIn, cmp" OR "Bob, Dylan, VerfasserIn, sng" OR "Dylan, Bob, 1941-, GeistigeR SchöpferIn, cre" OR "Dylan, Bob, 1941-, TextdichterIn, lyr" OR "Bob, Dylan, 1941-, KomponistIn, cmp" OR "Bob, Dylan, 1941-, SängerIn, sng, InstrumentalmusikerIn, itr, InstrumentalmusikerIn, itr" OR "Bob, Dylan, 1941-, SängerIn, sng, InstrumentalmusikerIn, itr, InstrumentalmusikerIn, itr, InstrumentalmusikerIn, itr" OR "Bob, Dylan, KomponistIn, cmp, SängerIn, sng" OR "Bob, Dylan, VerfasserIn, aut, SängerIn, sng" OR "Dylan, Bob, 1941-, InterviewteR, ive" OR "Dylan, Bob, 1941-, KomponistIn, cmp, InstrumentalmusikerIn, itr, SängerIn, sng" OR "Dylan, Bob, 1941-, KomponistIn, cmp, TextdichterIn, lyr, SängerIn, sng, InstrumentalmusikerIn, itr" OR "Dylan, Bob, 1941-, KünstlerIn, art" OR "Dylan, Bob, 1941-, SängerIn, sng, KomponistIn, cmp" OR "Dylan, Bob, 1941-, Verf., aut" OR "Dylan, Bob, 1941-, VerfasserIn, aut, SängerIn, sng"
+
+2017,Kazuo Ishiguro
+"Ishiguro, Kazuo, 1954-, VerfasserIn, aut" OR "Kazuo, Ishiguro, VerfasserIn, aut" OR "Kazuo, Ishiguro, 1954-, VerfasserIn, aut" OR "01, Latn, Ishiguro, Kazuo, 1954-, VerfasserIn, aut"
+
+2018,Olga exit
+"Tokarczuk, Olga, 1962-, VerfasserIn, aut" OR "Olga, Tokarczuk, VerfasserIn, aut"
+
+2020,Louise Glück
+"Glück, Louise, 1943-, VerfasserIn, aut" OR "Louise, Glück, VerfasserIn, aut" OR "Louise, Glück, 1943-, VerfasserIn, aut"
+
+2021,Abdulrazak Gurnah
+"Gurnah, Abdulrazak, 1948-, VerfasserIn, aut" OR "Abdulrazak, Gurnah, 1948-, VerfasserIn, aut" OR "Abdulrazak, Gurnah, HerausgeberIn, edt"
+
+2022,Annie Ernaux
+"Ernaux, Annie, 1940-, VerfasserIn, aut" OR "Annie, Ernaux, VerfasserIn, aut" OR "Annie, Ernaux, 1940-, VerfasserIn, aut" OR "Ernaux, Annie, 1940-, InterviewteR, ive"
+
